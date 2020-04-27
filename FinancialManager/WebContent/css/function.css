@@ -1,0 +1,91 @@
+
+			#function-menue-left{
+				width:100%;
+				height:100%;
+				float:left;
+				background:transparent;
+			}
+			#function-menue-left .panel-default > .panel-heading{
+				background-color:#46B8DA;
+			}
+			#function-menue-left .panel-default > .panel-heading a{
+				color:#245580;
+			}
+			#function-menue-left .panel-success > .panel-heading{
+				background-color: #5CB85C;
+			}
+			#function-menue-left .panel-success > .panel-heading a{
+				color:#006400;
+			}
+			#function-menue-left .panel-info > .panel-heading{
+				background-color:mediumorchid;
+			}
+			#function-menue-left .panel-info > .panel-heading a{
+				color:#800080;
+			}
+			ul{
+				margin-top:-19px;
+				margin-bottom:-19px;
+				margin-left:0px;
+				list-style-type:none;
+				background:transparent;
+			}
+			.panel-collapse .panel-body li{
+				height:40px;
+				width:100%;
+				padding-top:10px;
+				border-radius:5px;
+				margin-top:3px;
+				padding-left:40px;
+				font-size:16px;
+			}
+			.panel{
+				background:transparent;
+				border:0px;
+			}
+			#collapseOne .panel-body li{
+				background-color:#C4E3F3;
+				color: #2AABD2;
+			}
+			#collapseThree .panel-body li{
+				background-color:#DDA0DD;
+				color:purple;
+			}
+			#collapseTwo .panel-body li{
+				background-color: #90EE90;
+				color: #4CAE4C;
+			}
+			.function-menue #select{
+				font-size:15px;
+				color:red;
+			}
+			.function-menue #select p{
+				font-size:16px;
+				color:#0F0F0F;
+			}
+			.select{
+				font-size:14px;
+			}
+			.select p{
+				font-size:15px;
+				display:block;
+				height:20px;
+				width:11%;
+				border-bottom:1px solid #269ABC;
+				color:#23527C;
+				margin-top:15px;
+				background-color:cornflowerblue;
+			}
+			.share{
+				font-size:14px;
+			}
+			.share p{
+				font-size:15px;
+				display:block;
+				height:20px;
+				width:14%;
+				border-bottom:1px solid #269ABC;
+				color:#23527C;
+				margin-top:15px;
+				background-color:cornflowerblue;
+			}
